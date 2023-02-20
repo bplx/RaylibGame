@@ -1,0 +1,5 @@
+/home/dexah/Documents/Projects/test/CMakeFiles/edit_cache.dir
+/home/dexah/Documents/Projects/test/CMakeFiles/rebuild_cache.dir
+/home/dexah/Documents/Projects/test/src/CMakeFiles/main.dir
+/home/dexah/Documents/Projects/test/src/CMakeFiles/edit_cache.dir
+/home/dexah/Documents/Projects/test/src/CMakeFiles/rebuild_cache.dir
